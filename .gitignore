@@ -1,0 +1,8 @@
+[Dd]ebug/
+obj
+*.o
+.vs
+*.suo
+*.csproj.user
+*.pdb
+*.vshost.*
